@@ -8,10 +8,10 @@
 
 **🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations and land your dream job faster.**
 
-Join our community: [Telegram](https://t.me/AIhawkCommunity) (for Normal users) | Discord (for Open Source contributors)
+Join our community: [Telegram](https://t.me/AIhawkCommunity) (for Normal users)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AIhawkCommunity)
-![Discord badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
 
 </div>
 
