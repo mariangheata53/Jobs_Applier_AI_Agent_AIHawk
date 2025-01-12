@@ -3,7 +3,7 @@
 from src.utils.constants import DEBUG, ERROR, LLM_MODEL, OPENAI
 
 #config related to logging must have prefix LOG_
-LOG_LEVEL = ERROR
+LOG_LEVEL = 'ERROR'
 LOG_SELENIUM_LEVEL = ERROR
 LOG_TO_FILE = False
 LOG_TO_CONSOLE = False
