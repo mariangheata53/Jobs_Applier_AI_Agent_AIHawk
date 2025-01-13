@@ -535,8 +535,6 @@ For further assistance, please create an issue on the [GitHub repository](https:
   - Step 1: Get your free API key at https://aistudio.google.com/app/apikey.
   - Step 2: Verify Ollama is Running 
     - Replace llm_api_key with your newly created API key on the file secrets.yaml located at Auto_Jobs_Applier_AIHawk\data_folder\secrets.yaml
-  - Step 2: Verify Ollama is Running 
-    - Replace llm_api_key with your newly created API key on the file secrets.yaml located at Auto_Jobs_Applier_AIHawk\data_folder\secrets.yaml
   - Step 3: Edit Configuration in VS Code
     - Edit the file config.py located at Auto_Jobs_Applier_AIHawk\config.py with the following 
     - llm_model_type: gemini 
