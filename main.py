@@ -229,7 +229,6 @@ def create_cover_letter(parameters: dict, llm_api_key: str):
             plain_text_resume = file.read()
 
         style_manager = StyleManager()
-        style_manager = StyleManager()
         available_styles = style_manager.get_styles()
 
         if not available_styles:
