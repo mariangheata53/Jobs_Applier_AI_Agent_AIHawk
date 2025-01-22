@@ -35,7 +35,7 @@ Jobs_Applier_AIHawk is continuously evolving, and your feedback, suggestions, an
 
 ## Introduction
 
-Auto_Jobs_Applier_AIHawk is a cutting-edge, automated tool designed to revolutionize the job search and application process. In today's fiercely competitive job market, where opportunities can vanish in the blink of an eye, this program offers job seekers a significant advantage by leveraging the power of automation and artificial intelligence.
+Jobs_Applier_AIHawk is a cutting-edge, automated tool designed to revolutionize the job search and application process. In today's fiercely competitive job market, where opportunities can vanish in the blink of an eye, this program offers job seekers a significant advantage by leveraging the power of automation and artificial intelligence.
 
 ### The Challenge of Modern Job Hunting
 
@@ -439,15 +439,11 @@ Using this folder as a guide can be particularly helpful for:
    - `secrets.yaml`
    - `plain_text_resume.yaml`
 
-2. **Output Folder:**
-    Contains the output of the bot.
-    TODO
 
 
+2. **Run the Bot:**
 
-3. **Run the Bot:**
-
-   Auto_Jobs_Applier_AIHawk offers flexibility in how it handles your PDF resume:
+   Jobs_Applier_AIHawk offers flexibility in how it handles your PDF resume:
 
 - **Resume and Cover Letter Generation:**
 
@@ -522,29 +518,10 @@ For further assistance, please create an issue on the [GitHub repository](https:
      - llm_model: 'llama3.2:1b' 
      - llm_api_url: 'http://127.0.0.1:11434/'
      
-- Gemini Setup
-  - Follow the instructions below to ensure proper configuration of **AIHawk** with **Ollama** and **Gemini**.
-  - Written by Rushi, [Linkedin](https://www.linkedin.com/in/rushichaganti/), support him by following.
-  - Step 1: Get your free API key at https://aistudio.google.com/app/apikey.
-  - Step 2: Verify Ollama is Running 
-    - Replace llm_api_key with your newly created API key on the file secrets.yaml located at Auto_Jobs_Applier_AIHawk\data_folder\secrets.yaml
-  - Step 3: Edit Configuration in VS Code
-    - Edit the file config.py located at Auto_Jobs_Applier_AIHawk\config.py with the following 
-    - llm_model_type: gemini 
-    - llm_model: 'gemini-pro'
 
 - Editing YAML Files
   - For detailed instructions on editing YAML configuration sections for **AIHawk**, refer to this document:
   - [Download YAML Editing Guide (PDF)](https://www.scribd.com/document/788427840/Guide-Yaml-Sections)
-  - Written by Rushi, [Linkedin](https://www.linkedin.com/in/rushichaganti/), support him by following.
-
-- Auto-start AIHawk
-  - To make **AIHawk** automatically start when your system boots, follow the steps in this guide:
-  - [Download Auto-start AIHawk Guide (PDF)](https://www.scribd.com/document/788427278/guide-to-autostart-aihawk)
-  - Written by Rushi, [Linkedin](https://www.linkedin.com/in/rushichaganti/), support him by following.
-
-- Video Tutorial
-  - [How to set up Auto_Jobs_Applier_AIHawk](https://youtu.be/gdW9wogHEUM)
   - Written by Rushi, [Linkedin](https://www.linkedin.com/in/rushichaganti/), support him by following.
 
 - [OpenAI API Documentation](https://platform.openai.com/docs/)
@@ -564,7 +541,7 @@ For further assistance, please create an issue on the [GitHub repository](https:
 
 ## Conclusion
 
-Auto_Jobs_Applier_AIHawk provides a significant advantage in the modern job market by automating and enhancing the job application process. With features like dynamic resume generation and AI-powered personalization, it offers unparalleled flexibility and efficiency. Whether you're a job seeker aiming to maximize your chances of landing a job, a recruiter looking to streamline application submissions, or a career advisor seeking to offer better services, Auto_Jobs_Applier_AIHawk is an invaluable resource. By leveraging cutting-edge automation and artificial intelligence, this tool not only saves time but also significantly increases the effectiveness and quality of job applications in today's competitive landscape.
+Jobs_Applier_AIHawk provides a significant advantage in the modern job market by automating and enhancing the job application process. With features like dynamic resume generation and AI-powered personalization, it offers unparalleled flexibility and efficiency. Whether you're a job seeker aiming to maximize your chances of landing a job, a recruiter looking to streamline application submissions, or a career advisor seeking to offer better services, Auto_Jobs_Applier_AIHawk is an invaluable resource. By leveraging cutting-edge automation and artificial intelligence, this tool not only saves time but also significantly increases the effectiveness and quality of job applications in today's competitive landscape.
 
 ## Star History
 
@@ -592,6 +569,6 @@ The CC BY License permits others to distribute, remix, adapt, and build upon you
 
 ## Disclaimer
 
-This tool, Auto_Jobs_Applier_AIHawk, is intended for use at your own risk. The creators / maintainers / contributors assume no responsibility for any consequences arising from its use. Users are advised to comply with the terms of service of relevant platforms and adhere to all applicable laws, regulations, and ethical guidelines. The use of automated tools for job applications may carry risks, including potential impacts on user accounts. Proceed with caution and at your own discretion.
+This tool, Jobs_Applier_AIHawk, is intended for use at your own risk. The creators / maintainers / contributors assume no responsibility for any consequences arising from its use. Users are advised to comply with the terms of service of relevant platforms and adhere to all applicable laws, regulations, and ethical guidelines. The use of automated tools for job applications may carry risks, including potential impacts on user accounts. Proceed with caution and at your own discretion.
 
 [Back to top 🚀](#top)
