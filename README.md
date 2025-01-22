@@ -4,7 +4,8 @@
 
 # AIHawk the first Jobs Applier AI Agent
 
-**🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations and land your dream job faster.**
+**🤖🔍 
+Your AI-powered job search assistant. Automate applications, get personalized recommendations and land your dream job faster.**
 
 Join our community: [Telegram](https://t.me/AIhawkCommunity) (for Normal users)
 
