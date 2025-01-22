@@ -7,7 +7,7 @@
 **🤖🔍 
 Your AI-powered job search assistant. Automate applications, get personalized recommendations and land your dream job faster.**
 
-Join our community: [Telegram](https://t.me/AIhawkCommunity) (for Normal users)
+Join our community: [Telegram](https://t.me/AIhawkCommunity)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AIhawkCommunity)
 
