@@ -87,12 +87,15 @@ In the digital age, the job search landscape has undergone a dramatic transforma
    ```
 
    or for Windows-based machines -
-
+   ```bash
+   python3 -m venv virtual
+   ```
+   
    ```bash
    .\virtual\Scripts\activate
    ```
 
-5. **Install the required packages:**
+6. **Install the required packages:**
 
    Before installing the required packages, make sure to install https://visualstudio.microsoft.com/visual-cpp-build-tools/ and select "Desktop development with C++".
 
@@ -129,12 +132,13 @@ This file contains sensitive information. Never share or commit this file to ver
     - claude: any model
     - gemini: any model
 - `LLM_API_URL`:
+  >The `LLM_API_URL` field is only required for Ollama
   - Link of the API endpoint for the LLM model
     - openai: <https://api.pawan.krd/cosmosrp/v1>
     - ollama: <http://127.0.0.1:11434/>
     - claude: <https://api.anthropic.com/v1>
     - gemini: <https://aistudio.google.com/app/apikey>
-- Note: To run local Ollama, follow the guidelines here: [Guide to Ollama deployment](https://github.com/ollama/ollama). The `LLM_API_URL` field is only required for Ollama.
+- Note: To run local Ollama, follow the guidelines here: [Guide to Ollama deployment](https://github.com/ollama/ollama).
   
 ### 2. plain_text_resume.yaml
 
