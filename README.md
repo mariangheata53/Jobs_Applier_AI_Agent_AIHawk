@@ -14,7 +14,7 @@ Join our community: [Telegram](https://t.me/AIhawkCommunity)
 
 </div>
 
-**Creator** [feder-cr](https://github.com/feder-cr), Founder of AIHawk </br>
+**Creator** [feder-cr](https://github.com/feder-cr)</br>
 As AIHawk is focusing on their proprietary product - solving problems in hiring for companies, currently this project is led, managed, and maintained by a group of open-source contributors, with a focus on building tools to help job seekers land the jobs they deserve.
 
 Jobs_Applier_AIHawk is continuously evolving, and your feedback, suggestions, and contributions are highly valued. Feel free to open issues, suggest enhancements, or submit pull requests to help improve the project. Let's work together to make Auto_Jobs_Applier_AIHawk a powerful tool for job seekers worldwide.
