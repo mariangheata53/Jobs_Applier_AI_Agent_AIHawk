@@ -4,8 +4,6 @@
 
 # AIHawk the first Jobs Applier AI Agent
 
-  ![CI](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/actions/workflows/ci.yml/badge.svg)
-
 **🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations and land your dream job faster.**
 
 Join our community: [Telegram](https://t.me/AIhawkCommunity) (for Normal users)
