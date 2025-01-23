@@ -95,7 +95,7 @@ In the digital age, the job search landscape has undergone a dramatic transforma
    .\virtual\Scripts\activate
    ```
 
-6. **Install the required packages:**
+5. **Install the required packages:**
 
    Before installing the required packages, make sure to install https://visualstudio.microsoft.com/visual-cpp-build-tools/ and select "Desktop development with C++".
 
