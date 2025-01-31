@@ -4,12 +4,13 @@
 
 # AIHawk the first Jobs Applier AI Agent
 
-**🤖🔍 
+
 LinkedIn requested the removal of all links to the platform and banned all contributors to the project, so I was forced to decide to eliminate any form of automation on LinkedIn.
 
 For this reason, we have decided to create a new job board, which will be ready within a month!
 
 We’re working hard on this new project, and I’ll keep you updated as soon as possible!
+
 Join our community: [Telegram](https://t.me/AIhawkCommunity)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AIhawkCommunity)
