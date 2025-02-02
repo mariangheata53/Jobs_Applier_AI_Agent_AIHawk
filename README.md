@@ -5,11 +5,11 @@
 # AIHawk the first Jobs Applier AI Agent
 
 
-LinkedIn requested the removal of all links to the platform and banned all contributors to the project, so I was forced to decide to eliminate any form of automation on LinkedIn.
+LinkedIn requested the removal of all links to the platform and banned all project contributors, so to comply with their guidelines, we have removed any form of automation on LinkedIn.
 
-For this reason, we have decided to create a new job board, which will be ready within a month!
+In the meantime, we have decided to create a new job board AI driven, which will be ready within a month.
 
-We’re working hard on this new project, and I’ll keep you updated as soon as possible!
+To stay up to date, you can star the project or join our Telegram group.
 
 Join our community: [Telegram](https://t.me/AIhawkCommunity)
 
